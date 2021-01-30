@@ -37,7 +37,7 @@ booking.addEventListener('click', function () {
         else if (firstClassInput > 0 && economyClassInput > 0) {
             alert("You have selected  " + firstClassInput + " tickets of first class and " + economyClassInput + " tickets of economy.")
         }
-        confirm("Do want to book this Flights?")
+        confirm("Do want to book this Flight?")
     }
 })
 
